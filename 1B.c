@@ -37,8 +37,6 @@ c 0 3 g
 */
 /*Resenje*/
 
-	OK	1	0,52s	10,00MB
-11	OK	1	0,50s	10,00MB
 #include <iostream>
 #include <vector>
 #include <cmath>
