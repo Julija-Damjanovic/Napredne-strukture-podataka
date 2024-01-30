@@ -109,7 +109,7 @@ int main() {
         polygon.push_back(Point(x, y));
     }
     std::cin >> x >> y;
-    Point testPoint(x, x);
+    Point testPoint(x, y);
     if (PointInPolygon(testPoint, polygon))
         std::cout << "da" << std::endl;
     else
